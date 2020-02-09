@@ -14,14 +14,9 @@
 	<script language="JScript">
 		<![CDATA[
 	  
-  	 
-   	 var r = new ActiveXObject("WScript.Shell").Run("cmd /k cd c:\ & echo 'X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*' > eicar.com");
-   
-  	
+			var r = new ActiveXObject("WScript.Shell").Run("cmd /k cd c:\ & echo 'X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*' > eicar.com")
+	
 		]]>
-
-	</script>
-
+</script>
 </registration>
-
- </scriptlet>
+</scriptlet>
